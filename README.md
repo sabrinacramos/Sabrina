@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sabrina Ramos! <img src="https://media.giphy.com/media/VcwV7AZPxdZC6MyNfQ/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Sabrina Ramos! <img src="https://media.giphy.com/media/VcwV7AZPxdZC6MyNfQ/giphy.gif" width="50"></h2>
 
 [![Linkedin: Sabrina Ramos](https://img.shields.io/badge/-SabrinaRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sabrinaramoss)](https://www.linkedin.com/in/sabrinaramoss)
 [![GitHub sabrinacramos](https://img.shields.io/github/followers/sabrinacramos?label=follow&style=social)](https://github.com/sabrinacramos)
